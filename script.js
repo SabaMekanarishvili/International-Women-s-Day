@@ -11,7 +11,7 @@ document.getElementById('yesBtn').addEventListener('click', function() {
     document.body.innerHTML = `
         <div class="container">
             <h2>Right Answer, Now Follow Me Back on Instagram</h2>
-            <p>My Instagram: <a href="https://www.instagram.com/sabamekanarishvili/" target="_blank">sabamekanarishvili</a></p>
+            <p>My Instagram: <a href="https://www.instagram.com/sabamekanarishvilii/" target="_blank">sabamekanarishvilii</a></p>
         </div>
     `;
 });
